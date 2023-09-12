@@ -24,7 +24,7 @@ Projeto de um sistema de maração de exames.
 
 Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
 
-    Ususario registrado podera ver o exames detalhados, poderam marcar e desmarcar.
+    Ususario registrado podera ver o exames detalhados, poderam marcar e desmarcar e acessar seu historico.
     Usuario não registrado so podera ver os exames e seu preços.
     O administrador podera adiciona e remover exames a catalogo
 ----
