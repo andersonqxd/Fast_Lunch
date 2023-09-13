@@ -8,10 +8,10 @@ Projeto de um sistema de maração de exames.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-    Usuário não registrado
-    Usuário registrado
-    laboratorio cadastrado
-    exames cadastrados
+    Usuário não registrado;
+    Usuário registrado;
+    laboratorio cadastrado;
+    exames cadastrados.
     
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
