@@ -1,4 +1,4 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: CONECTLAB
 
 Projeto de um sistema de maração de exames.
 
@@ -10,7 +10,8 @@ Projeto de um sistema de maração de exames.
 
     Usuário não registrado
     Usuário registrado
-    Administrador
+    laboratorio cadastrado
+    exames cadastrados
     
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
@@ -18,15 +19,15 @@ Projeto de um sistema de maração de exames.
 
     Usuario
     Exames
-    Historico
+    Laboratorios
     
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
 
-    Ususario registrado podera ver o exames detalhados, poderam marcar e desmarcar e acessar seu historico.
-    Usuario não registrado so podera ver os exames e seu preços.
-    O administrador podera adiciona e remover exames a catalogo
+    O ususario (clinica) podera acessar os laboratorios e consultar exames e preços;
+    Poderar cadastrar os laboratorios;
+    Lboratorio poderar cadastrar os exames oferecidos.
 ----
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
