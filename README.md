@@ -1,6 +1,6 @@
-# :checkered_flag: CONECTLAB
+# :checkered_flag: Fast Lunch.
 
-Projeto de um sistema de maração de exames.
+Consiste em um sistema, onde o proprio cliente tem acesso a fazer os proprios pedidos, um "FastFood" online.
 
 ## :technologist: Membros da equipe
 
@@ -8,26 +8,25 @@ Projeto de um sistema de maração de exames.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-    Usuário não registrado;
     Usuário registrado;
-    laboratorio cadastrado;
-    exames cadastrados.
+    Acompanhamento de pedidos;
+    Realização de pedidos.
     
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-    Usuario
-    Exames
-    Laboratorios
+    Usuario;
+    Pedidos;
+    Estado de Pedidos.
     
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
 
-    O ususario (clinica) podera acessar os laboratorios e consultar exames e preços;
-    Poderar cadastrar os laboratorios;
-    Lboratorio poderar cadastrar os exames oferecidos.
+    O ususario (funcionario) podera fazer alterações no cardapio;
+    O usuario funcionario fara o acompanhamento do pedido (pedente, pronto e entregue);
+    O cliente podera fazer e modificar o seu proprio pedido antes de finalizalo.
 ----
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
