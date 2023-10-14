@@ -18,7 +18,7 @@ Consiste em um sistema, onde o proprio cliente tem acesso a fazer os proprios pe
 
     Usuario;
     Pedidos;
-    Estado de Pedidos.
+    Produtos.
     
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
